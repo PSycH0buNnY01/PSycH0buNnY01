@@ -1,0 +1,3 @@
+# Geen omgevingsbestanden in git (S2).
+.env
+.env.*
